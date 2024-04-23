@@ -1,5 +1,5 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: DINESH KARTHICK K J N</h3>
+<h3>Name: DINESH KARTHICK K J </h3>
 <h3>Register Number Id: 212222100011</h3>
 <H3>Aim:</H3>
 <p>
